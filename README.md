@@ -3,9 +3,6 @@
 # Nirav Zalavadiya  
 Senior Mobile Engineer (Flutter & iOS)
 
-📧 pnirav174@gmail.com  
-📞 8485913212  
-📍 Surat, India  
 
 🔗 LinkedIn: https://www.linkedin.com/in/nirav-zalavadiya7  
 🔗 GitHub: https://github.com/pnirav174  
