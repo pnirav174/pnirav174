@@ -4,7 +4,16 @@
 Senior Mobile Engineer (Flutter & iOS)
 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nirav-zalavadiya7) | 💻 [GitHub](https://github.com/pnirav174) | 🧠 [LeetCode](https://leetcode.com/u/pnirav174/)
+<a href="https://www.linkedin.com/in/nirav-zalavadiya7">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/pnirav174">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/pnirav174/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
+</a>
+
 
 ---
 
