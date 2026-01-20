@@ -27,17 +27,34 @@ I have strong **System Design and Data Structures & Algorithms** knowledge.
 ## Demo Projects (Public)
 These projects represent my **code quality, architecture decisions, and real-world problem solving**.
 
-### Mini Chat Application
-https://github.com/pnirav174/mini_chat  
-- Clean architecture with state management  
-- API-driven messages with offline handling  
-- Focus on UI/UX and maintainable code  
+### Recipe Finder App (Flutter)
+https://github.com/pnirav174/recipe_finder  
+[APK](https://drive.google.com/file/d/1NDo3mDQ_L3C_Vdoinj5bxFLFsCEqqUsN/view?usp=sharing) •
+[Demo Video](https://drive.google.com/file/d/1GweX-nlKZvNZ3WH68jcj7uHWCBe3XelB/view)  
+- API-driven recipe discovery using **TheMealDB**
+- Clean Architecture with clear separation of layers
+- Advanced search, sorting, and filtering
+- Offline support for previously opened recipes
+- Skeleton loaders, Hero animations, interactive image viewer
+- Light & Dark mode support
+- Unit and widget tests with solid coverage
 
 ### Real-Time Task Board (Offline + Sync)
 https://github.com/pnirav174/flutter-task-board  
-- Offline-first design with sync strategy  
-- Clean Architecture and testable layers  
-- Focus on reliability and scalability  
+[APK](https://drive.google.com/file/d/1LR1_DPx4r56oiZNVG9YaLaAPMuqizNNw/view?usp=sharing) •
+[Demo Video](https://drive.google.com/file/d/1AwrwBvyK_KGEZ5LrdnO3p5WTI-TC16Oh/view)  
+- Offline-first design with sync strategy
+- Clean Architecture and testable layers
+- Focus on reliability and scalability
+
+### Mini Chat Application
+https://github.com/pnirav174/mini_chat  
+[APK](https://drive.google.com/file/d/1yEU4Tuwr5XXW_oOJN1Cr7VGtZtODtjv4/view?usp=sharing) •
+[Demo Video](https://drive.google.com/file/d/1dq_0GW8f16jUVfhsVM7Euoz0cDZCoxrc/view)  
+- Clean architecture with state management
+- API-driven messages with offline handling
+- Focus on UI/UX and maintainable code
+
 
 > Note: Most of my work is in **private production repositories**.  
 > These demos showcase my **coding style and best practices**.
